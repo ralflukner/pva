@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="34aee1ca-f962-45a8-a51d-48ddad13d23f" name="luknerclinic.net" url="https://luknerclinic.net/">
+        <fileTransfer mountedRoot="$USER_HOME$/Library/Containers/com.eltima.cloudmounter.mas/Data/.CMVolumes/bitnami luknerclinic.net server" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="961f1ec8-568a-46c5-96ac-b8a5eaa394e8" name="local" url="http://localhost:63342/pva/index-html.php">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
